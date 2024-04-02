@@ -3,8 +3,12 @@ using System.IO;
 
 namespace CSharpPractice
 {
-    class Logger
+    /// <summary>
+    /// Task 14 - Logger class
+    /// </summary>
+    class Logger 
     {
+
         private readonly string _filepath;
 
         public Logger(string testName, string filePath)

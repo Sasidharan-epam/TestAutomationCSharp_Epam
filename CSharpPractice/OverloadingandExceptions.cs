@@ -5,6 +5,10 @@ using OpenQA.Selenium.Support.UI;
 
 namespace CSharpPractice
 {
+    /// <summary>
+    /// Task 7,9 - Method overloading, Access modifiers
+    /// </summary>
+
     //Static class and static driver initialization
     public static class WebDriver
     {

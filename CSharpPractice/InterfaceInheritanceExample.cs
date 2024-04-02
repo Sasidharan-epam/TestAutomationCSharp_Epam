@@ -5,6 +5,9 @@ using OpenQA.Selenium.Support.UI;
 
 namespace CSharpPractice
 {
+    /// <summary>
+    /// Task 6- Inheritance using Interface, Abstract class 
+    /// </summary>
      interface IWebPage
     {
         string PageTitle { get; }
