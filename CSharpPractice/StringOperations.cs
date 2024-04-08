@@ -3,8 +3,11 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Text;
 
-namespace ConsolePrograms
+namespace CSharpPractice
 {
+    /// <summary>
+    /// Task 1,11- String operations in C#
+    /// </summary>
     class StringOperations
     {
         static void Main(string[] args)
